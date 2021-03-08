@@ -7,9 +7,7 @@ I am detecting Edges though Canny Edge Detection by using python and open cv2
 # Result Image
 ## Masking
 
-![alt text](https://github.com/sufyanAshraf/Canny-Edge-Detection/blob/main/Result/fx_4.jpg)
-
-![alt text](https://github.com/sufyanAshraf/Canny-Edge-Detection/blob/main/Result/fy_4.jpg)
+![alt text](https://github.com/sufyanAshraf/Canny-Edge-Detection/blob/main/Result/fx_4.jpg) ![alt text](https://github.com/sufyanAshraf/Canny-Edge-Detection/blob/main/Result/fy_4.jpg)
 
 ## Magnitude
 ![alt text](https://github.com/sufyanAshraf/Canny-Edge-Detection/blob/main/Result/magnitude_4.jpg)
